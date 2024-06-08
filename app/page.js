@@ -9,7 +9,6 @@ export default function Home() {
       <hr/>
       <Conteudo/>
       <hr/>
-        <ListaDeProdutos/>
       <hr/>
       <Rodape/>
     </div>
