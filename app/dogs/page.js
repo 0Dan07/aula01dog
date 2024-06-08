@@ -7,7 +7,7 @@ export default function Dogs(){
     const [imgcachorro, alteraImgCachorro] = useState([])
     const [nome, alteraNome] = useState ("")
 
-
+    teste=1
     
     function buscarimgs(racaCachorro){
 
