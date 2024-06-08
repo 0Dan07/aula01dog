@@ -1,0 +1,102 @@
+/* #Dog div{
+    color: blueviolet;
+    
+}
+
+#Dog .Infos{
+    display: flex;
+    position: fixed;
+    margin-top: 50px;
+    margin-left: 240px;
+    margin: 0px;
+    width: 200px;
+    height: 100%;
+    background-color:#3A434A ;
+}
+
+#Dog .MainImg{
+    margin-right: 10px;
+    margin-left: 150px;
+    margin-top: 150px;
+    display: flex;
+    position: fixed;
+    border: 5px green;
+    padding: 50px;
+    justify-content: center;
+}
+
+#Dog .MainImg h3{
+    color: #3A434A;
+    margin-top: 0px;
+    margin-right: 25px;
+}
+
+#Dog .Cabecalho{
+   margin-left: 200px;
+   position: fixed;
+}
+#Dog img{
+    width: 150px;
+    height: 150px;
+    padding: 15px;
+    margin-top: 20px;
+}
+
+#Dog .Pai{
+    display: flex;
+} */
+
+
+#Dog .Cabecalho{
+    background-color: #9d4edd;
+    color: black;
+    margin: 0px;
+    padding: 10px;
+    
+}
+
+
+#Dog .Main{
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    justify-content: space-between;
+}
+
+
+#Dog .Main img{
+    width: 200px;
+    height: 200px;
+    margin-left: 10px;
+    margin-top: 50px;
+    border: #9d4edd;
+}
+
+#Dog .Infos{
+    background-color:#3A434A;
+    width: 150px;
+    height: 100%;
+}
+
+#Dog .Infos li{
+    color: aliceblue;
+    padding: 20px;
+    border-bottom: 1px solid white;
+}
+
+#Dog .Infos ul{
+    list-style-type: none;
+    padding-left: 0px;
+    color: aliceblue;
+}
+
+
+#Dog .Infos li:hover{
+    cursor: pointer;
+    background-color:#9d4edd ;
+}
+
+#Dog .Conteudo{
+    display: flex
+}
+
